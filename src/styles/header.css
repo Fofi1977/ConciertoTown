@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+  }
+  
+  .subtitle-container {
+    margin-top: 10px; 
+    background-color: white;
+  }
+  
+  .title-container{
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+  }
+  .subtitle {
+    color: #ebebee;
+    background-color: black;
+    padding: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    text-align: center;
+
+  }

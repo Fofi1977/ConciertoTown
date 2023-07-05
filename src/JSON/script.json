@@ -1,0 +1,67 @@
+[
+    {
+        "imagen" : "https://ventas.fullticket.com/UplImage/BecerraGEBA_1500x500.jpg",
+        "artista": "Maria Becerra",
+        "lugar": {
+            "direccion": "Av. Coronel Marcelino E. Freyre 3831, C1426 CABA",
+            "sitio": "Estadio Geba",
+            "provincia": "Ciudad de Buenos Aires",
+            "pais": "Argentina"
+            },
+        "fecha": {
+            "año": 2023,
+            "mes": "diciembre",
+            "hora": "20.00"
+            },
+        "entrada": "https://www.ticketmaster.com.mx/maria-becerra-ciudad-de-mexico-13-10-2023/event/3D005E7EB9BF55D1"
+    },
+    {
+        "imagen" : "https://billboard.com.ar/wp-content/uploads/2020/09/FLYER-1-STREAMING-RFG.jpg",
+        "artista": "Rafaga",
+        "lugar": {
+            "direccion": "Av. Corrientes 857, C1043AAI, C1043AAI CABA",
+            "sitio": "Teatro Gran Rex",
+            "provincia": "Ciudad de Buenos Aires",
+            "pais": "Argentina"
+            },
+        "fecha": {
+            "año": 2023,
+            "mes": "octubre",
+            "hora": "21.30"
+            },
+        "entrada": "https://www.ticketmaster.com.mx/maria-becerra-ciudad-de-mexico-13-10-2023/event/3D005E7EB9BF55D1"
+    },
+    {
+        "imagen" : "https://www.cronista.com/files/image/642/642441/649ec0b2a08d5.jpg",
+        "artista": "Duki",
+        "lugar": {
+            "direccion": "Av. Pres. Figueroa Alcorta 7597, C1428 CABA",
+            "sitio": "Estadio de River Plate",
+            "provincia": "Ciudad de Buenos Aires",
+            "pais": "Argentina"
+            },
+        "fecha": {
+            "año": 2023,
+            "mes": "diciembre",
+            "hora": "21.00"
+            },
+        "entrada": "https://www.allaccess.com.ar/event/duki"
+    },
+
+    {
+        "imagen" : "https://cdn.getcrowder.com/images/07601eda-8d34-4d20-b414-f0e1f337b06b-abel640x640-5.png",
+        "artista": "The Weekend",
+        "lugar": {
+            "direccion": "Av. Bernabé Márquez 700, B1642 San Isidro, Provincia de Buenos Aires",
+            "sitio": "LollaPalooza",
+            "provincia": "Ciudad de Buenos Aires",
+            "pais": "Argentina"
+            },
+        "fecha": {
+            "año": 2024,
+            "mes": "enero",
+            "hora": "21.00"
+            },
+        "entrada": "https://www.allaccess.com.ar/event/the-weeknd"
+    }
+]
